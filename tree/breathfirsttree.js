@@ -90,4 +90,5 @@ tree.insert(3);
 tree.insert(8);
 tree.insert(20);
 tree.BFS();
+console.log(tree.BFS())
     
